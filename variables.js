@@ -8,4 +8,7 @@ var halloweenSucks = false
 address = "1313 Wrong Ave, Wrongville, Earth"
 alias = 'Wrongy McWrongerson'
 
+console.log(address)
+console.log(kittens)
+console.log(weatherNice)
 
